@@ -1,0 +1,29 @@
+﻿@charset "utf-8";
+
+body{width:100%; height:100em; background-color:lightgreen; padding:0; margin:0; font-family:arial;}
+
+.first{width:100%; height:12em; background-color:white; color:green;  margin:0; padding:0; overflow:hidden;}
+
+ul{list-style-type:none; margin:0; padding:0; overflow:hidden; background-color:olive;}
+li{float:left;}
+li a{display:block; color:white; text-align:center; padding:14px 12px; text decoration:none;}
+li a:hover{background-color#111;}
+
+.twelve{width:100%; height:5em; text-align:center; color: white; background-color:olive; 
+margin-top:0.5em; margin-bottom:0; overflow:hidden; padding:0;}
+
+.second{width:100%; height:20em; margin:0; padding:0; overflow:hidden; background-color:lightgreen;}
+
+.third{width:100%; height:55em; margin:0; padding:0; overflow:hidden;}
+
+.fifth{width:50%; height:55em; padding:0; margin:0; overflow:hidden; float:left;}
+.sixth{width:50%; height:55em; padding:0; margin:0; overflow:hidden; float:right;}
+
+.fourth
+{width:100%; height:8em; text-align:center; overflow:hidden; margin:0;
+background-color:olive; color:white; padding:0;}
+
+
+
+h2{color:red;}
+h3{color:green;]

@@ -1,0 +1,35 @@
+﻿@charset "utf-8";
+
+body{width:100%; height:105em; background-color:olive; padding:0; margin:0; font-family:arial;}
+
+.first{width:100%; height:12em; background-color:white; margin:0; padding:0; overflow:hidden;}
+
+ul{list-style-type:none; margin:0; padding:0; overflow:hidden; background-color:olive;}
+li{float:left;}
+li a{display:block; color:white; text-align:center; padding:14px 12px; text decoration:none;}
+li a:hover{background-color#111;}
+
+.second{width:28%; height:83em; background-color:olive; margin-right:2%; padding:0; overflow:hidden; float:left;}
+.one{width:100%; height:3em; background-color:lightgreen; margin:0; padding:0; overflow:hidden;}
+.two{width:100%; height:20em; background-color:white; margin-bottom:1em; margin-top:1em; padding:0; overflow:hidden;}
+.three{width:100%; height:20em; background-color:lightgreen; margin-bottom:1em; margin-top:1em; padding:0; overflow:hidden;}
+.four{width:100%; height:20em; background-color:white; margin-bottom:1em; margin-top:1em; padding:0; overflow:hidden;}
+.five{width:100%; height:20em; background-color:lightgreen; margin:0; padding:0; overflow:hidden;}
+
+.third{width:70%; height:83em; background-color:lightgreen; color:red; padding:0; overflow:hidden; float:right;}
+.six{width:100%; height:3em; background-color:lightgreen; margin:0; padding:0; overflow:hidden;}
+
+.seventh{width:50%; height:80em; background-color:white; color:red; padding:0; overflow:hidden; float:left;}
+
+.fourth{width:50%; height:80em; background-color:white; color:red; margin:0; padding:0; overflow:hidden; float:right;}
+
+
+
+.fifth{width:100%; height:10em; margin-top:2em; text-align:center; color:white; padding:0; overflow:hidden;}
+
+h1{color:green;}
+h4{color:green;}
+h6{color:red;}
+h5{color:green;}
+span{color:red; font-size:250%; padding-top:10em; text-align:center; margin:0; overflow:hidden;}
+.sixth{float:right;}
